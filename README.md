@@ -16,3 +16,9 @@ PROJE4: https://drive.google.com/file/d/1hqOJwrmLx_iZbpt8P5_lAZXoy8tpNiAj/view?u
 PROJE5: https://drive.google.com/file/d/1zwThwkri8islH86FPsbm1rLsxr7-wps1/view?usp=drive_link
 
 PROJE6: https://drive.google.com/file/d/1xKX419ivu4PbjD_1r5knhSs1XE8Wst4f/view?usp=drive_link
+
+
+
+SqlBackups Dosyası vize projeleri için kullanlılan Veri tabanı Dosyaları
+
+FinalBackups Dosyası Final Projeleri için Kullanılan Veri tabanı Dosyaları
